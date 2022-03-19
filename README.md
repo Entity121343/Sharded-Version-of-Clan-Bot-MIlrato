@@ -158,3 +158,5 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 # Credits
 
 > If consider using this Bot, make sure to credit me!
+
+- Any Idiot who dosent know how to download the sharded branch, use this. All credits to sussy baka tomato
